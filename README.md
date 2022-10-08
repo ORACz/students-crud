@@ -1,4 +1,4 @@
-# Api Students-Crud - MVC SpringBoot + Thymeleaf
+# Api Students-Crud - MVC SpringBoot + Thymeleaf + H2
 
 Aplikacja z  interfejsem graficznym z wykorzystaniem Thymeleaf, obsługuje metody webowe: 
 GET: getAllStudents, GET: editStudent, 
